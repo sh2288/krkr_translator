@@ -3,7 +3,7 @@
 ## 本软件采用后续更新免费制度(激活方式--硬件绑定)
 >#### [码云项目地址](https://gitee.com/sh2288/krkr_translator)
 
-### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或[git根目录](https://github.com/sh2288/krkr_translator/blob/master/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2019-12-22_%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%8138552538.zip) [过滤文本正则表达式仓库](https://sh2288.github.io/krkr_translator/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F_%E4%BB%93%E5%BA%93(%E6%8C%89%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%88%86%E7%B1%BB-%E9%80%9A%E8%BF%87%E7%B2%98%E8%B4%B4%E5%AF%BC%E5%85%A5%E5%8D%B3%E5%8F%AF%E4%BD%BF%E7%94%A8).md)
+### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或[git根目录](https://github.com/sh2288/krkr_translator/blob/master/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2019-12-22_%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%8138552538.zip) 
 
 >#### [B站视频教程](https://www.bilibili.com/video/av69298736)
 >#### [youtube视频教程](https://youtu.be/8aXjUVPenW8)
@@ -11,7 +11,7 @@
 >#### 最新消息
 ```
 2021-06-29
-吉里吉里剧本文件,直接精确识别剧本文本,不再需要懂正则表达式
+吉里吉里剧本文件,直接精确识别剧本文本,不再需要懂正则表达式,由程序自动识别
 2021-05-21
 提供一个,根据对话尾部特殊字符串的万用正则
 ^((?!^.*[r]\]\\$).)
