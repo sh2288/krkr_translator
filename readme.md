@@ -3,13 +3,20 @@
 ## 本软件采用后续更新免费制度(激活方式--硬件绑定)
 >#### [码云项目地址](https://gitee.com/sh2288/krkr_translator)
 
-### 文字游戏 翻译君 QQ群 [38552538](https://shang.qq.com/wpa/qunwpa?idkey=750821134ca5569c2215b66c9593df40851d615fe92aa5633af297a6cba96420) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或[git根目录](https://github.com/sh2288/krkr_translator/blob/master/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2019-12-22_%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%8138552538.zip) 
+### 文字游戏 翻译君 QQ1群 [38552538](https://jq.qq.com/?_wv=1027&k=ajBHt2i4) QQ2群 [706514743](https://jq.qq.com/?_wv=1027&k=uNgezthB) [度盘提取码:bb3b](https://pan.baidu.com/s/1qObSVEx6ZijYcia8QKic3w) 或[git根目录](https://github.com/sh2288/krkr_translator/blob/master/%E6%96%87%E5%AD%97%E6%B8%B8%E6%88%8F_%E7%BF%BB%E8%AF%91%E5%90%9B_2019-12-22_%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%8138552538.zip) 
 
 >#### [B站视频教程](https://www.bilibili.com/video/av69298736)
 >#### [youtube视频教程](https://youtu.be/8aXjUVPenW8)
 ![image](img/图像-7.png)
 >#### 最新消息
 ```
+2021-07-16
+软件绑定硬件方式变更
+新版本ks和scn已完成,直接翻译
+待翻译的文本进行打包处理(按照翻译接口提供的最大字符数)提交--
+譬如彩云最大字符单次可以提交5000字,程序将会按照句子打包到即将超过5000字时,进行提交
+添加renpy?
+添加rpgmv?
 2021-06-29
 吉里吉里剧本文件,直接精确识别剧本文本,不再需要懂正则表达式,由程序自动识别
 2021-05-21
